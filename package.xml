@@ -9,6 +9,7 @@
     </types>
     <types>
         <members>CSlistType1__c.desc__c</members>
+        <members>Employee__c.Employ_test_field1__c</members>
         <members>Student__c.StudentKnownLanguages__c</members>
         <members>Student__c.StudentSkils__c</members>
         <name>CustomField</name>
