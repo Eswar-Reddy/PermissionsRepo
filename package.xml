@@ -5,4 +5,12 @@
         <members>AppCls01</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>CSlistType1__c.desc__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>CSlistType1__c</members>
+        <name>CustomObject</name>
+    </types>
 </Package>
