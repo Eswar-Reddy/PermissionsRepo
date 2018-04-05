@@ -3,6 +3,8 @@
     <version>40.0</version>
     <types>
         <members>AppCls01</members>
+        <members>BusinessClass</members>
+        <members>BusinessClassTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -20,5 +22,9 @@
         <members>CSlistType1__c</members>
         <members>Student__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PermissionDemo1</members>
+        <name>PermissionSet</name>
     </types>
 </Package>
