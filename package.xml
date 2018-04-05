@@ -10,6 +10,11 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Cls1</members>
+        <members>Cls2</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>CSlistType1__c</members>
         <name>CustomObject</name>
     </types>
