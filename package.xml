@@ -7,12 +7,14 @@
         <members>Account_2</members>
         <members>AppCls01</members>
         <members>ApxCls1</members>
+        <members>ApxCls2</members>
         <members>BusinessClass</members>
         <members>BusinessClassTest</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>CSlistType1__c.desc__c</members>
+        <members>CustomController__c.textfield1__c</members>
         <members>Employee__c.Employ_test_field1__c</members>
         <members>Employee__c.Employ_test_field2__c</members>
         <members>Student__c.StudentKnownLanguages__c</members>
@@ -26,6 +28,7 @@
     </types>
     <types>
         <members>CSlistType1__c</members>
+        <members>CustomController__c</members>
         <members>Student__c</members>
         <name>CustomObject</name>
     </types>
