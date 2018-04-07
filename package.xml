@@ -37,4 +37,9 @@
         <members>PermissionDemo2</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>AdmProfile111</members>
+        <members>AdmProfile222</members>
+        <name>Profile</name>
+    </types>
 </Package>
