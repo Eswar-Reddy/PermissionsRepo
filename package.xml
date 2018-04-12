@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
+        <members>AccCls2</members>
         <members>Account1</members>
         <members>Account1_Test</members>
         <members>Account_2</members>
@@ -35,11 +36,13 @@
     <types>
         <members>PermissionDemo1</members>
         <members>PermissionDemo2</members>
+        <members>PermissionDemoSe1</members>
         <name>PermissionSet</name>
     </types>
     <types>
         <members>AdmProfile111</members>
         <members>AdmProfile222</members>
+        <members>AdminProfilesSe1</members>
         <name>Profile</name>
     </types>
 </Package>
