@@ -4,6 +4,10 @@
         <apexClass>AccCls2</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>AccCls3</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>true</custom>
     <userLicense>Salesforce</userLicense>
 </Profile>

@@ -4,6 +4,10 @@
         <apexClass>AccCls2</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>AccCls3</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <description>PermissionDemo1 for test desc</description>
     <hasActivationRequired>true</hasActivationRequired>
     <label>PermissionDemoSe1</label>

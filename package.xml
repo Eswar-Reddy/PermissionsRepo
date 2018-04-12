@@ -3,6 +3,7 @@
     <version>39.0</version>
     <types>
         <members>AccCls2</members>
+        <members>AccCls3</members>
         <members>Account1</members>
         <members>Account1_Test</members>
         <members>Account_2</members>
