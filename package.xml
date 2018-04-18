@@ -38,6 +38,7 @@
     <types>
         <members>PermissionDemo1</members>
         <members>PermissionDemo2</members>
+        <members>PermissionDemo66</members>
         <members>PermissionDemoSe1</members>
         <name>PermissionSet</name>
     </types>
